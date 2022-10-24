@@ -1,0 +1,36 @@
+.about-me{
+    /* border:solid 1px rgb(16, 85, 176); */
+    border-radius: 15px;
+    text-align: center;
+    padding: 15px;
+   }
+   
+   .about-ing{
+    border-radius: 15px;
+   
+   }
+   
+   .about-img{
+    border-radius: 5px;
+}
+
+
+
+.links > a{
+   color: gray;
+}
+
+
+.links>a:hover {
+   color: red;
+}
+
+.form-control{
+    width: 200px;
+    text-align: center;
+    resize: none;
+}
+
+h1{ 
+    text-decoration: underline;
+}

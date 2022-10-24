@@ -1,0 +1,47 @@
+.page{
+    background-color: wheat;
+    border-radius:10px ;
+    border: solid 2px rgb(255, 0, 0);
+    width: 220px;
+    padding: 7px;
+    text-align: center;
+    
+    }
+    
+    .all{
+        background-color: white;
+        padding: 5px;
+    }
+    
+    
+   
+
+.btn-send{
+    background-color: red;
+    border-radius: 5px;
+    border: solid 2px black;
+    transition-duration: 0.5s;
+    box-shadow: 0 0 10px black;
+}
+
+.btn-send:hover{
+    background-color: yellowgreen;
+    color: magenta;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.spongebob{
+    width:200px;
+    height:200px;
+    border:solid 5px red;
+        transition-duration: 0.5s;
+border-radius: 50%;
+}
+
+
+.spongebob:hover{
+    border: solid 5px purple;
+    transform: scale(1.1);
+    
+}

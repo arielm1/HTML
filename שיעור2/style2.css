@@ -1,0 +1,35 @@
+.page{
+background-color: wheat;
+border-radius:10px ;
+border: solid 2px rgb(255, 0, 0);
+width: 200px;
+padding: 7px;
+text-align: center;
+
+}
+
+.all{
+    background-color: white;
+    padding: 5px;
+}
+
+
+body{
+    background-color: rgb(127, 194, 238);
+    padding: 7px ;
+    padding-left: 300px ;
+    padding-right: 300px;
+    width: 50%;
+} 
+
+button:hover{
+    background-color: rgb(255, 0, 0);
+    transform: scale(1.1) ;
+    cursor: grab;
+}
+
+button{
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(133, 190, 237);
+}
